@@ -4,7 +4,6 @@
   # Park InHee
   ### ( CHOULOKY )
   
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=CHOULOKY&show_icons=true&theme=merko&count_private=true" width=48% />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOULOKY&layout=compact&theme=merko&count_private=true" width=36.5% />
@@ -13,10 +12,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHOULOKY&theme=merko&count_private=true" width=84.5%/>
   </a>-->
   <a href="https://solved.ac/profile/chouloky">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CHOULOKY&theme=warm" width=42.25% />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CHOULOKY" width=42.25% />
   </a>
   <a href="https://solved.ac/profile/ppagnin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=PPAGNIN&theme=warm" width=42.25% />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=PPAGNIN" width=42.25% />
   </a>
 
 </div>
